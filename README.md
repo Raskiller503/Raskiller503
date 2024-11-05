@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 😄 Phd Student in Kyushu University Sustainable Building Energy Systems Laboratory.
 - 🌱 Currently studying in Fukuoka, Japan.
 - 🔭 I’m currently working on Edge computing in IoT device like Machine learning application in office building & MPC control. 
-- ⭐ You may like [Text_recognition]([https://github.com/Raskiller503/ImageRecognition-AC-pannel-_-OpenCV]), [Windows_app]([https://github.com/Raskiller503/Pyqt5-DesktopGUI]), [PMVcalculation_tool]([https://github.com/Raskiller503/Thermal-comfort-tool-])
 - ⚡ Fun fact: Data Analysis📊
 ### Tech Stack
 - Python3
