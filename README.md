@@ -27,4 +27,12 @@ Here are some ideas to get you started:
 - C++
 - MySQL
 - Git
+### Open access project
+- [Calculating PMV index by Python](https://github.com/Raskiller503/Thermal-comfort-tool-)
+- [Text_recognition_by_OpenCV](https://github.com/Raskiller503/ImageRecognition-AC-pannel-_-OpenCV)
+- [Desktop_App_by_PyQT5](https://github.com/Raskiller503/Pyqt5-DesktopGUI)
+- [Arduino_project_for_measuring_saltfactory](https://github.com/Raskiller503/SaltProcessMetrics)
+- [IoT_project_for_quick_detecting_HVAC COP](https://github.com/Raskiller503/HVAC-IoT-Performance-Monitor)
+
+
 
