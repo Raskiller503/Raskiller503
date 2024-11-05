@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Edge computing in IoT device like Machine learning application in office building & MPC control. 
 - ⚡ Fun fact: Data Analysis📊
 ### Tech Stack
-- Python3
+- Python3/Linux
 - C++
 - MySQL
 - Git
