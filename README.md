@@ -23,10 +23,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Edge computing in IoT device, Machine learning application in office building, Wireless sensing, MPC control. 
 - ⚡ Fun fact: Data Analysis📊
 ### Tech Stack
-- Python3/Linux
-- C++
-- MySQL
-- Git
+- ![Static Badge](https://img.shields.io/badge/python3-yello) ![Static Badge](https://img.shields.io/badge/linux-blue) ![Static Badge](https://img.shields.io/badge/C%2B%2B-8A2BE2)
+- ![Static Badge](https://img.shields.io/badge/REST%20API-red)
+- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ### Open access project
 - [Calculating PMV index by Python](https://github.com/Raskiller503/Thermal-comfort-tool-)
 - [Text_recognition_by_OpenCV](https://github.com/Raskiller503/ImageRecognition-AC-pannel-_-OpenCV)
