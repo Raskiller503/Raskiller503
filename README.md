@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### I'm Chen Yutong
 
-- 😄 Phd Student in Kyushu University Sustainable Building Energy Systems Laboratory.
+- 😄 Phd Student in [Kyushu University](https://www.kyushu-u.ac.jp/en/), [Sustainable Building Energy Systems Laboratory](https://energy.arch.kyushu-u.ac.jp/index.html).
 - 🌱 Currently studying in Fukuoka, Japan.
 - 🔭 I’m currently working on Edge computing in IoT device like Machine learning application in office building & MPC control. 
 - ⚡ Fun fact: Data Analysis📊
