@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Data Analysis📊
 ### Tech Stack
 - ![Static Badge](https://img.shields.io/badge/python3-yello) ![Static Badge](https://img.shields.io/badge/linux-blue) ![Static Badge](https://img.shields.io/badge/C%2B%2B-8A2BE2)
-- ![Static Badge](https://img.shields.io/badge/REST%20API-red)
-- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ![Static Badge](https://img.shields.io/badge/REST%20API-red) ![Static Badge](https://img.shields.io/badge/HTML-teal)
+- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
