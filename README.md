@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - [Desktop_App_by_PyQT5](https://github.com/Raskiller503/Pyqt5-DesktopGUI)
 - [Arduino_project_for_measuring_saltfactory](https://github.com/Raskiller503/SaltProcessMetrics)
 - [IoT_based_quick_HVAC COP_detecting method](https://github.com/Raskiller503/HVAC-IoT-Performance-Monitor)
+- [Set-point temperature based HVAC energy consumption prediction model](https://github.com/Raskiller503/Set-point-temperature-based-AC-energy-consumption-prediction-model)
 
 
 
